@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">APPtest</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First test</string>
+    <string name="second_fragment_label">Second test</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">first page</string>
+    <string name="hello_second_fragment">second page. Arg: %1$s</string>
+</resources>
